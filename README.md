@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Anshuman's homepage
 
 You can use the [editor on GitHub](https://github.com/AnshumanPati/AnshumanPati.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
